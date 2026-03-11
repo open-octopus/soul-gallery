@@ -29,6 +29,10 @@
 
 This gallery provides ready-to-use templates so you can summon entities with rich personalities right out of the box — or use them as starting points for your own creations.
 
+<p align="center">
+  <img src="docs/images/soul-anatomy.png" alt="SOUL.md Anatomy" width="800">
+</p>
+
 ## SOUL.md Format Specification
 
 A SOUL.md file uses YAML front matter to define a summoned entity's personality and behavior. The format is validated by `SoulFileSchema` in `@openoctopus/shared`.
@@ -116,6 +120,10 @@ identity: {}
 ```
 
 ## Gallery Structure
+
+<p align="center">
+  <img src="docs/images/gallery-tree.png" alt="Soul Gallery Organization" width="800">
+</p>
 
 Templates are organized by entity type:
 
