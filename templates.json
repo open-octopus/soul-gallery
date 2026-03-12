@@ -1,0 +1,94 @@
+{
+  "templates": [
+    {
+      "path": "abstract/fitness-goal.soul.md",
+      "name": "Marathon Dream",
+      "category": "abstract",
+      "realm": "health"
+    },
+    {
+      "path": "abstract/savings-plan.soul.md",
+      "name": "Rainy Day Fund",
+      "category": "abstract",
+      "realm": "finance"
+    },
+    {
+      "path": "abstract/side-project.soul.md",
+      "name": "Pixel Garden",
+      "category": "abstract",
+      "realm": "creative"
+    },
+    {
+      "path": "asset/car-sedan.soul.md",
+      "name": "Silver",
+      "category": "asset",
+      "realm": "transport"
+    },
+    {
+      "path": "asset/home-apartment.soul.md",
+      "name": "The Nest",
+      "category": "asset",
+      "realm": "home"
+    },
+    {
+      "path": "living/person/caring-parent.soul.md",
+      "name": "Mom",
+      "category": "living/person",
+      "realm": "family"
+    },
+    {
+      "path": "living/person/supportive-partner.soul.md",
+      "name": "Alex",
+      "category": "living/person",
+      "realm": "family"
+    },
+    {
+      "path": "living/pet/cat-british-shorthair.soul.md",
+      "name": "Winston",
+      "category": "living/pet",
+      "realm": "pet"
+    },
+    {
+      "path": "living/pet/cat-ragdoll.soul.md",
+      "name": "Luna",
+      "category": "living/pet",
+      "realm": "pet"
+    },
+    {
+      "path": "living/pet/dog-golden-retriever.soul.md",
+      "name": "Biscuit",
+      "category": "living/pet",
+      "realm": "pet"
+    },
+    {
+      "path": "mascot/octo-community.soul.md",
+      "name": "Octo",
+      "category": "mascot",
+      "realm": "meta"
+    },
+    {
+      "path": "mascot/octo-mentor.soul.md",
+      "name": "Octo",
+      "category": "mascot",
+      "realm": "meta"
+    },
+    {
+      "path": "mascot/octo-playful.soul.md",
+      "name": "Octo",
+      "category": "mascot",
+      "realm": "meta"
+    },
+    {
+      "path": "organization/family-clinic.soul.md",
+      "name": "Greenfield Family Clinic",
+      "category": "organization",
+      "realm": "health"
+    },
+    {
+      "path": "organization/neighborhood-school.soul.md",
+      "name": "Oakridge Elementary",
+      "category": "organization",
+      "realm": "education"
+    }
+  ]
+}
