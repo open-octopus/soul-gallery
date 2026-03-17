@@ -20,8 +20,7 @@
 
 ---
 
-> **Status: Planned** — Part of the OpenOctopus ecosystem roadmap.
-> Star this repo to follow progress.
+> **Status: Planned** — Phase 1 focuses on family-oriented SOUL.md templates (pets, elderly parents, family members). Summon is a core differentiator for the AI family home hub.
 
 ## What is soul-gallery?
 
